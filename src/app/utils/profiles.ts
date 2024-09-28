@@ -15,9 +15,15 @@ export const profiles: ProfileProps[] = [
     name: "Omkar Prabhu",
     quote: "I love milk!",
   },
+  
   {
     username: "satwikrprabhu",
     name: "Satwik R Prabhu",
     quote: "I know where you live 🌝",
+  },
+  {
+    username: "Apple-pizza",
+    name: "Ashwin Bhat K",
+    quote: "Life is a conundrum of esoterica",
   },
 ];
